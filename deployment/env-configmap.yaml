@@ -4,9 +4,9 @@ metadata:
   name: udagram-configmap
 data:
   aws-region: us-east-1
-  s3-bucket: project3-541906267190-dev
+  s3-bucket: newproject-993785994761-dev
   db-name: postgres
-  database-url: project3-database-1.crm6nrrkd43l.us-east-1.rds.amazonaws.com
+  database-url: krystal-db.cgljarkrn2vx.us-east-1.rds.amazonaws.com
   aws-profile: default
   jwt-secret: testing
   url: http://localhost:8100
